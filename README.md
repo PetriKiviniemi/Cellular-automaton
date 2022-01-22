@@ -11,4 +11,4 @@ Glad and GLM needs to be in projectroot/include/<br />
 On launch, press up arrow to generate 3 random starter cells<br />
 
 Screenshot:
-![image](https://user-images.githubusercontent.com/47989350/150641795-384ac73e-21d5-434b-85a1-3d0494cdc5ac.png)
+![image](https://user-images.githubusercontent.com/47989350/150641898-0d9ec83b-9944-44bb-a06b-89f266a0608b.png)
