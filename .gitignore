@@ -9,3 +9,11 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+build/
+CMakeScripts/
+glad/
+glew/
+glm/
+KHR/
+lib/
+compile_commands.json
