@@ -10,5 +10,5 @@ CMakeLists builds glfw from source<br />
 Glad and GLM needs to be in projectroot/include/<br />
 On launch, press up arrow to generate 3 random starter cells<br />
 
-Screenshot:
+Screenshot:<br />
 ![image](https://user-images.githubusercontent.com/47989350/150641898-0d9ec83b-9944-44bb-a06b-89f266a0608b.png)
